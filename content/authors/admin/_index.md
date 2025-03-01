@@ -33,18 +33,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:willetse0745@uwec.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/swill04/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sophie-willett-5613a029a/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: assets/media/icons/slack-brands-solid (1).svg
+    url: ''
+  #- icon: academicons/google-scholar
+    #url: https://scholar.google.com/
+  #- icon: academicons/orcid
+   # url: https://orcid.org/
 
 interests:
   - Genetics
@@ -83,9 +81,10 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Taking care of lab organisms
+      - Designing and performing experiments for parasitic chemo-sensory behaviors
+      - Using the UW-SuperComputing Cluster for submitting movement tracks for analysis
+      - Writing abstracts, manuscripts, and posters for presenting research (ASP 2024, CERCA 2025, ASP 2025)
   - position: Barista
     company_name: Scheels
     company_url: 'https://www.scheels.com/store/eau-claire/040/?srsltid=AfmBOoqpUkV0d8fUC0YIw3tgQxl3vrscBGyrjiaQrmF4HQmDoLRT4oGw/'
@@ -94,9 +93,9 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Working in Ginna's Cafe making drinks and food for customers and other employees
+      - Maintaining a safe, clean, and organized environment while providing excellent customer service
+      - Making all the various food options available
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -105,16 +104,20 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: ''
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
-        percent: 100
+        percent: ''
         icon: chart-bar
-      - name: SQL
+      - name: RNA Extraction, PCR + Gel Electrophoresis
         description: ''
-        percent: 40
+        percent: ''
         icon: circle-stack
+      - name: Optimization of Movement-tracking Scripts
+        description: ''
+        percent: ''
+        icon: circle-stack 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
