@@ -37,8 +37,6 @@ profiles:
     url: https://github.com/swill04/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sophie-willett-5613a029a/
-  - icon: assets/media/slack-original.svg
-    url: https://scholar.google.com/
   #- icon: academicons/google-scholar
     #url: https://scholar.google.com/
   #- icon: academicons/orcid
