@@ -58,6 +58,7 @@ education:
     date_end: 2025-12-20
     summary: |
       Research supervised by [Dr. Nic Wheeler](https://www.uwec.edu/profiles/wheelenj/).
+
       Courses include:
       - Applied Bioinformatics
       - Python, R
@@ -78,7 +79,7 @@ work:
     company_name: University of Wisconsin - Eau Claire; Biology Department
     company_url: 'https://www.uwec.edu/academics/college-arts-and-sciences/departments-programs/biology-department/'
     company_logo: ''
-    date_start: 2023-10
+    date_start: 2023-10-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -89,7 +90,7 @@ work:
     company_name: Scheels
     company_url: 'https://www.scheels.com/store/eau-claire/040/?srsltid=AfmBOoqpUkV0d8fUC0YIw3tgQxl3vrscBGyrjiaQrmF4HQmDoLRT4oGw/'
     company_logo: ''
-    date_start: 2023-09
+    date_start: 2023-09-01
     date_end: ''
     summary: |
       Responsibilities include:
