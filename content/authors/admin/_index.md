@@ -113,15 +113,15 @@ skills:
       - name: RNA Extraction
         description: ''
         percent: ''
-        icon: <svg xmlns="http://www.w3.org/2000/svg"
+        icon: ''
       - name: PCR + Gel Electrophoresis
         description: ''
         percent: ''
-        icon: assets/media/icons/vial-solid (1).svg
+        icon: ''
       - name: Optimization of Tracking Scripts
         description: ''
         percent: ''
-        icon: devicon/bash
+        icon: devicon/bash-plain
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
