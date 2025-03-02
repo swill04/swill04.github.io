@@ -37,6 +37,8 @@ profiles:
     url: https://github.com/swill04/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sophie-willett-5613a029a/
+  - icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
+    url: ''
   #- icon: academicons/google-scholar
     #url: https://scholar.google.com/
   #- icon: academicons/orcid
@@ -111,15 +113,15 @@ skills:
       - name: RNA Extraction
         description: ''
         percent: ''
-        icon: circle-stack
+        icon: <svg xmlns="http://www.w3.org/2000/svg"
       - name: PCR + Gel Electrophoresis
         description: ''
         percent: ''
-        icon: circle-stack
-      - name: Optimization of \n Movement-tracking Scripts
+        icon: <svg xmlns="http://www.w3.org/2000/svg"
+      - name: Optimization of /n Movement-tracking Scripts
         description: ''
         percent: ''
-        icon: circle-stack 
+        icon: devicon/bash
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
