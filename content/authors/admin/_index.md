@@ -138,7 +138,7 @@ skills:
         icon: 🎮
 
 #    Awards.
-#   Add/remove as many awards below as you like.
+#    Add/remove as many awards below as you like.
 #    Only `title`, `awarder`, and `date` are required.
 #    Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
@@ -146,7 +146,7 @@ awards:
     url: https://www.uwec.edu/biology-department/biology-research-scholars-program/
     date: '2023-10-01'
     awarder: 'University of Wisconsin - Eau Claire Biology Department'
-    icon: <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+    icon: ''
     summary: |
       I was chosen by a panel of faculty to join in wet lab research with one of the biology department faculty.
       I was placed into my current lab where I'm still doing research! 
