@@ -146,7 +146,7 @@ awards:
     url: https://www.uwec.edu/biology-department/biology-research-scholars-program/
     date: '2023-10-01'
     awarder: 'University of Wisconsin - Eau Claire Biology Department'
-    icon: hero/beaker
+    icon: <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
     summary: |
       I was chosen by a panel of faculty to join in wet lab research with one of the biology department faculty.
       I was placed into my current lab where I'm still doing research! 
