@@ -37,8 +37,6 @@ profiles:
     url: https://github.com/swill04/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sophie-willett-5613a029a/
-  - icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
-    url: ''
   #- icon: academicons/google-scholar
     #url: https://scholar.google.com/
   #- icon: academicons/orcid
@@ -113,11 +111,11 @@ skills:
       - name: RNA Extraction
         description: ''
         percent: ''
-        icon: 🧪
+        icon: '🧪'
       - name: PCR + Gel Electrophoresis
         description: ''
         percent: ''
-        icon: 🧬
+        icon: '🧬'
       - name: Optimization of Tracking Scripts
         description: ''
         percent: ''
@@ -129,15 +127,15 @@ skills:
       - name: Reading
         description: ''
         percent: ''
-        icon: 📖
+        icon: '📖'
       - name: Cats
         description: 'Specifically my tuxedo!'
         percent: ''
-        icon: 🐈‍⬛
+        icon: '🐈‍⬛'
       - name: Video Games
         description: ''
         percent: ''
-        icon: 🎮
+        icon: '🎮'
 
 # Awards.
 #   Add/remove as many awards below as you like.
