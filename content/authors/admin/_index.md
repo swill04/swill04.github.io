@@ -111,11 +111,11 @@ skills:
       - name: RNA Extraction
         description: ''
         percent: ''
-        icon: '🧪'
+        icon: 🧪
       - name: PCR + Gel Electrophoresis
         description: ''
         percent: ''
-        icon: '🧬'
+        icon: 🧬
       - name: Optimization of Tracking Scripts
         description: ''
         percent: ''
@@ -127,27 +127,30 @@ skills:
       - name: Reading
         description: ''
         percent: ''
-        icon: '📖'
+        icon: 📖
       - name: Cats
         description: 'Specifically my tuxedo!'
         percent: ''
-        icon: '🐈‍⬛'
+        icon: 🐈‍⬛
       - name: Video Games
         description: ''
         percent: ''
-        icon: '🎮'
+        icon: 🎮
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
- # - title: 
-  #  url: 
-   # date: ''
-    #awarder: ''
-    #icon: ''
-    #summary: |
+    Awards.
+    Add/remove as many awards below as you like.
+    Only `title`, `awarder`, and `date` are required.
+    Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: BRSP Scholarship - Paid
+    url: https://www.uwec.edu/biology-department/biology-research-scholars-program/
+    date: '2023-10-01'
+    awarder: 'University of Wisconsin - Eau Claire Biology Department'
+    icon: hero/beaker
+    summary: |
+      I was chosen by a panel of faculty to join in wet lab research with one of the biology department faculty.
+      I was placed into my current lab where I'm still doing research! 
+      This opportunity has provided me great skills that I use both in the lab and in my personal life. 
 ---
 
 ## About Me
