@@ -32,10 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Currently:'
       subtitle: ''
       text: |-
+        I've been working in parasite chemosensory research for around two years now with my current lab. It's been a very fun experience and something that has really impacted me as a scientist! 
         
+        I'm going to be presenting at CERCA 2025 here at UWEC and am excited to share my research!
+        
+        I'm almost finished with my undergraduate career and plan on applying to grad school for fall of 2026.
     design:
       columns: '1'
   # - block: collection
