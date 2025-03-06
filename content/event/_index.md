@@ -9,5 +9,5 @@ view: card
 # Optional cover image (relative to `assets/media/` folder).
 image: 
   caption: ''
-  filename: 'content/event/ASP_2024/ASP_logo.jpg'
+  filename: 'ASP_logo.jpg'
 ---
