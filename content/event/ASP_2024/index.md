@@ -32,7 +32,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
+image: ASP_logo.jpg
   caption: 'Image credit: [**Wikipedia**](https://en.wikipedia.org/wiki/American_Society_of_Parasitologists)'
   focal_point: Right
 
