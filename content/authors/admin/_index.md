@@ -142,7 +142,7 @@ skills:
 #    Only `title`, `awarder`, and `date` are required.
 #    Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: BRSP Scholarship - Paid
+  - title: BRSP Scholarship
     url: https://www.uwec.edu/biology-department/biology-research-scholars-program/
     date: '2023-10-01'
     awarder: 'University of Wisconsin - Eau Claire Biology Department'
