@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Sophie_Willett_Resume.pdf
     design:
       css_class: dark
       background:
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: pink_background.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
