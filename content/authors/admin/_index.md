@@ -111,7 +111,7 @@ skills:
       - name: PCR + Gel Electrophoresis
         description: ''
         percent: ''
-        icon: 
+        icon: hero/beaker
       - name: Optimization of Tracking Scripts
         description: ''
         percent: ''
@@ -123,15 +123,15 @@ skills:
       - name: Reading
         description: ''
         percent: ''
-        icon: 
+        icon: hero/book-open
       - name: Cats
         description: 'Specifically my tuxedo!'
         percent: ''
-        icon: 
+        icon: cat
       - name: Video Games
         description: ''
         percent: ''
-        icon: 
+        icon: hero/rocket-launch
 
 #    Awards.
 #    Add/remove as many awards below as you like.
