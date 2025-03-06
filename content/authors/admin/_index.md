@@ -123,11 +123,11 @@ skills:
       - name: Reading
         description: ''
         percent: ''
-        icon: hero/open-book
+        icon: hero/book-open
       - name: Cats
         description: 'Specifically my tuxedo!'
         percent: ''
-        icon: 
+        icon: cat
       - name: Video Games
         description: ''
         percent: ''
