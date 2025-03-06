@@ -15,7 +15,7 @@ sections:
       text: Below are projects that I've worked on here at UWEC.
       filters:
         folders:
-          - project/Sm_Mira
+          - project
     design:
       view: article-grid
       fill_image: true

@@ -8,6 +8,6 @@ view: card
 
 # Optional cover image (relative to `assets/media/` folder).
 image: 
-  caption: ''
+  caption: 'Image credit: [**Wikipedia**](https://en.wikipedia.org/wiki/American_Society_of_Parasitologists)'
   filename: 'ASP_logo.jpg'
 ---
