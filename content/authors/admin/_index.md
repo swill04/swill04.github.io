@@ -111,11 +111,11 @@ skills:
       - name: RNA Extraction
         description: ''
         percent: ''
-        icon: 🧪
+        icon: 
       - name: PCR + Gel Electrophoresis
         description: ''
         percent: ''
-        icon: 🧬
+        icon: 
       - name: Optimization of Tracking Scripts
         description: ''
         percent: ''
@@ -127,15 +127,15 @@ skills:
       - name: Reading
         description: ''
         percent: ''
-        icon: 📖
+        icon: 
       - name: Cats
         description: 'Specifically my tuxedo!'
         percent: ''
-        icon: 🐈‍⬛
+        icon: 
       - name: Video Games
         description: ''
         percent: ''
-        icon: 🎮
+        icon: 
 
 #    Awards.
 #    Add/remove as many awards below as you like.
