@@ -36,15 +36,8 @@ image:
   caption: 'Image credit: [**Wikipedia**](https://en.wikipedia.org/wiki/American_Society_of_Parasitologists)'
   focal_point: Right
 
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-#url_code: 'https://github.com'
+links:
 url_pdf: 'https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:2e1ad06f-3eea-4382-b6b3-e66815e40847'
-#url_slides: 'https://slideshare.net'
-#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
